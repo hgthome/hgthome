@@ -1,4 +1,4 @@
-# Hey there! I'm Henrique 👋
+# Hello! I'm Henrique 👋
 
 <div align="center">
   
@@ -6,22 +6,21 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const henrique = {
-  title: "Senior Software Engineer & CTO",
+  title: "Senior Software Engineer & Architect",
   company: "AxxisPay US",
   location: "Remote 🌍",
   experience: "8+ years",
-  passion: ["Fintech", "Clean Architecture", "Performance Optimization"],
-  currentlyLearning: ["AI/ML Integration", "Blockchain", "DeFi"],
-  hobbies: ["🏎️ Cars", "🎵 Music Production", "💪 Working Out"],
-  motto: "Code with purpose, architect with vision"
+  passion: ["Artificial Intelligence", "Blockchain", "Open Source"],
+  currentlyLearning: ["AI/ML Integration", "DeFi"],
+  hobbies: ["🏎️ Cars", "🎵 Music", "💪 Gym"]
 };
 ```
 
-## 🛠️ Tech Arsenal
+## Tech Stuff
 
 <div align="center">
 
@@ -49,19 +48,7 @@ const henrique = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgthome&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hgthome&theme=tokyonight&hide_border=true) -->
-
-</div>
-
-## 🏢 Professional Journey
+## Work Stuff
 
 ```mermaid
 timeline
@@ -80,29 +67,40 @@ timeline
                  : Cloud-Native Fintech Platform
 ```
 
-## 🎯 What I'm Up To
+## Stats
 
-- 🔭 **Currently building:** Cloud-native fintech solutions at AxxisPay US
-- 🌱 **Learning:** AI/ML integration, Blockchain technologies, DeFi protocols
-- 👯 **Looking to collaborate on:** Open source fintech projects, performance optimization tools
-- 💬 **Ask me about:** System architecture, fintech solutions, legacy modernization
-- ⚡ **Fun fact:** I can debug code while producing beats and planning my next car mod! 🎵🏎️
+<div align="center">
+  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgthome&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
 
-## 🏎️ Beyond Code
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hgthome&theme=tokyonight&hide_border=true) -->
+
+</div>
+
+## Stuff I am currently interested in 
+
+- **Currently building:** Cloud-native fintech solutions at AxxisPay US
+- **Learning:** AI/ML integration, Blockchain technologies, DeFi protocols
+- **Looking to collaborate on:** Open source projects, mostly for fun
+- **Ask me about:** System architecture, Old japanese cars, legacy modernization, DAWs
+
+## Beyond Code
 
 <div align="center">
 
 ### When I'm Not Coding...
 
-| 🏎️ **Cars** | 🎵 **Music Production** | 💪 **Fitness** |
-|:---:|:---:|:---:|
-| Tuning & Modding | Electronic Music | Strength Training |
-| Track Days | Beat Making | Cardio Sessions |
-| Car Photography | Sound Design | Nutrition Planning |
+| 🏎️ **Cars** | 🎵 **Music** | 💪 **Fitness** | 🤓 **Nerd** |
+|:---:|:---:|:---:|:---:|
+| Modding | EDM Production | Eat | Anime |
+| Vibe Driving | Audio Gear | Sleep | Games |
+| Events | Sound Design | Deadlift | Computers |
 
 </div>
 
-## 🤝 Let's Connect!
+## Reach out, don't be shy...
 
 <div align="center">
 
