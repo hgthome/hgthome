@@ -12,7 +12,7 @@
 const henrique = {
   title: "Senior Software Engineer & Architect",
   company: "BTG Pactual",
-  location: "Hybrid/Sampa",
+  location: "Hybrid @ SP",
   experience: "8+ years",
   passion: ["Artificial Intelligence", "Blockchain", "Open Source"],
   currentlyLearning: ["AI/ML Integration", "DeFi"],
