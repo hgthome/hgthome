@@ -11,8 +11,8 @@
 ```typescript
 const henrique = {
   title: "Senior Software Engineer & Architect",
-  company: "AxxisPay US",
-  location: "Remote 🌍",
+  company: "BTG Pactual",
+  location: "Hybrid/Sampa",
   experience: "8+ years",
   passion: ["Artificial Intelligence", "Blockchain", "Open Source"],
   currentlyLearning: ["AI/ML Integration", "DeFi"],
@@ -59,12 +59,12 @@ timeline
     2019-2021 : Full Stack Developer @ IBM
               : Quote-to-Cash Implementation
               : Microservices Architecture
-    2021-2025 : Team Leader @ IBM
+    2021-2025 : Lead Software Engineer @ IBM
               : Latin American Billing Systems
               : 60% Productivity Improvement
-    2025-Present : CTO @ AxxisPay US
-                 : Technical Strategy Leadership
-                 : Cloud-Native Fintech Platform
+    Current   : Software Engineer @ BTG Pactual
+              : PME platform development
+              : Legacy migration
 ```
 
 ## Stats
@@ -81,7 +81,7 @@ timeline
 
 ## Stuff I am currently interested in 
 
-- **Currently building:** Cloud-native fintech solutions at AxxisPay US
+- **Currently building:** Top-tier banking solutions @ BTG Pactual
 - **Learning:** AI/ML integration, Blockchain technologies, DeFi protocols
 - **Looking to collaborate on:** Open source projects, mostly for fun
 - **Ask me about:** System architecture, Old japanese cars, legacy modernization, DAWs
