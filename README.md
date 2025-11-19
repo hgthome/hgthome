@@ -47,7 +47,7 @@ Software Engineer focused on PME platform development and modernizing banking in
 const currentFocus = {
   building: "Banking Solutions @ BTG Pactual",
   learning: ["AI/ML Integration", "DeFi Protocols"],
-  hobbies: ["JDM Cars", "Music Production", "Powerlifting"],
+  hobbies: ["JDM Cars", "Music Production", "Deadlifts"],
   contact: {
     email: "hgthome@proton.me",
     linkedin: "in/hgthome",
