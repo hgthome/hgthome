@@ -1,26 +1,9 @@
-# Hello! I'm Henrique 👋
+# Henrique Thomé
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;CTO+%40+AxxisPay+US;Full-Stack+Developer;Fintech+Enthusiast;Car+Lover+%F0%9F%8F%8E;Music+Producer+%F0%9F%8E%B5;Gym+Rat+%F0%9F%92%AA)
+> Senior Software Engineer & Architect based in São Paulo, Brazil.
+> Specializing in high-performance fintech systems, legacy modernization, and distributed architectures.
 
-</div>
-
-## About Me
-
-```typescript
-const henrique = {
-  title: "Senior Software Engineer & Architect",
-  company: "BTG Pactual",
-  location: "Hybrid @ SP",
-  experience: "8+ years",
-  passion: ["Artificial Intelligence", "Blockchain", "Open Source"],
-  currentlyLearning: ["AI/ML Integration", "DeFi"],
-  hobbies: ["🏎️ Cars", "🎵 Music", "💪 Gym"]
-};
-```
-
-## Tech Stuff
+## Tech Stack
 
 <div align="center">
 
@@ -40,6 +23,7 @@ const henrique = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,65 +32,36 @@ const henrique = {
 
 </div>
 
-## Work Stuff
+## Experience
 
-```mermaid
-timeline
-    title Career Timeline
-    2017-2019 : Software Development Intern @ IBM
-              : Java & Python Development
-              : Legacy System Maintenance
-    2019-2021 : Full Stack Developer @ IBM
-              : Quote-to-Cash Implementation
-              : Microservices Architecture
-    2021-2025 : Lead Software Engineer @ IBM
-              : Latin American Billing Systems
-              : 60% Productivity Improvement
-    Current   : Software Engineer @ BTG Pactual
-              : PME platform development
-              : Legacy migration
+**BTG Pactual** _(Current)_
+Software Engineer focused on PME platform development and modernizing banking infrastructure.
+
+**IBM** _(2017 — 2025)_
+**Lead Software Engineer:** Led the Latin American billing systems team, achieving a 60% productivity boost.
+**Full Stack Developer:** Implemented Quote-to-Cash solutions and microservices architectures.
+
+## Status
+
+```typescript
+const currentFocus = {
+  building: "Banking Solutions @ BTG Pactual",
+  learning: ["AI/ML Integration", "DeFi Protocols"],
+  hobbies: ["JDM Cars", "Music Production", "Powerlifting"],
+  contact: {
+    email: "hgthome@proton.me",
+    linkedin: "in/hgthome",
+    portfolio: "hgtho.me"
+  }
+};
 ```
 
-## Stats
+## Activity
 
-<div align="center">
-  
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgthome&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hgthome&theme=tokyonight&hide_border=true) -->
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" height="150" alt="Top Languages" />
 </div>
 
-## Stuff I am currently interested in 
+<br />
 
-- **Currently building:** Top-tier banking solutions @ BTG Pactual
-- **Learning:** AI/ML integration, Blockchain technologies, DeFi protocols
-- **Looking to collaborate on:** Open source projects, mostly for fun
-- **Ask me about:** System architecture, Old japanese cars, legacy modernization, DAWs
-
-## Beyond Code
-
-<div align="center">
-
-### When I'm Not Coding...
-
-| 🏎️ **Cars** | 🎵 **Music** | 💪 **Fitness** | 🤓 **Nerd** |
-|:---:|:---:|:---:|:---:|
-| Modding | EDM Production | Eat | Anime |
-| Vibe Driving | Audio Gear | Sleep | Games |
-| Events | Sound Design | Deadlift | Computers |
-
-</div>
-
-## Reach out, don't be shy...
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hgthome)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hgtho.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.thome@outlook.com)
-![Profile Views](https://komarev.com/ghpvc/?username=hgthome&color=blueviolet&style=for-the-badge)
-
-</div>
+[Website](https://hgtho.me) • [LinkedIn](https://linkedin.com/in/hgthome) • [Email](mailto:henrique.thome@outlook.com)
