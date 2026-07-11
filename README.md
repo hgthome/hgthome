@@ -1,9 +1,15 @@
 # Henrique Thomé
 
 > Senior Software Engineer & Architect based in São Paulo, Brazil.
-> Specializing in high-performance fintech systems, legacy modernization, and distributed architectures.
+> Founder of **HGT Consulting** — building high-performance fintech systems, data platforms, and distributed architectures.
 
-## Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Founder-HGT_Consulting-0A0A0A?style=flat-square&labelColor=0A0A0A" alt="Founder — HGT Consulting" />
+  <img src="https://img.shields.io/badge/Based_in-São_Paulo,_BR-2088FF?style=flat-square" alt="Based in São Paulo" />
+  <img src="https://img.shields.io/badge/Open_to-International_Clients-6DB33F?style=flat-square" alt="Open to international clients" />
+</p>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -32,21 +38,27 @@
 
 </div>
 
-## Experience
+## 💼 Experience
 
-**BTG Pactual** _(Current)_
-Software Engineer focused on PME platform development and modernizing banking infrastructure.
+**HGT Consulting** — Founder & Principal Engineer _(2026 — Present)_
+Running my own software company, delivering to international clients.
+Focused on **data platforms & BI** and **contract management / invoicing** solutions.
+
+**BTG Pactual** — Software Engineer _(2025 — 2026)_
+Drove PME (SMB) platform development and modernized banking infrastructure.
+Led the migration of the SMB checking-account module from **Amazon ECS to EKS**.
 
 **IBM** _(2017 — 2025)_
 **Lead Software Engineer:** Led the Latin American billing systems team, achieving a 60% productivity boost.
 **Full Stack Developer:** Implemented Quote-to-Cash solutions and microservices architectures.
 
-## Status
+## 🎯 Status
 
 ```typescript
 const currentFocus = {
-  building: "Banking Solutions @ BTG Pactual",
-  learning: ["AI/ML Integration", "DeFi Protocols"],
+  building: "Data & Invoicing Platforms @ HGT Consulting",
+  clients: "International",
+  learning: ["AI/ML Integration", "Data Engineering"],
   hobbies: ["JDM Cars", "Music Production", "Deadlifts"],
   contact: {
     email: "hgthome@proton.me",
@@ -56,7 +68,7 @@ const currentFocus = {
 };
 ```
 
-## Activity
+## 📊 Activity
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" height="150" alt="Top Languages" />
