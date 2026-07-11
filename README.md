@@ -71,7 +71,7 @@ const currentFocus = {
 ## 📊 Activity
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgthome&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hgthome&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 <br />
